@@ -1,0 +1,14 @@
+# Bill of Materials (BOM)
+
+| Reference | Qty | Component | Unit Price (USD) | Total (USD) | Link |
+|---|---:|---|---:|---:|---|
+| A1 | 1 | Arduino Nano V3.x | $15.99 | $15.99 | [Amazon](https://www.amazon.com/ELEGOO-Presoldered-Compatible-Arduino-Microcontroller/dp/B0F6Y7GS4Q) |
+| BZ1, BZ2, BZ3 | 1 | Buzzer | $5.99 | $5.99 | [Amazon](https://www.amazon.com/Passive-Buzzers-Continuous-Circuits-Projects/dp/B0H4LBM1VH) |
+| D1, D2, D3 | 1 | RGB LED (LED_KRGB) | $8.99 | $8.99 | [Amazon](https://www.amazon.com/Tricolor-Multicolor-Lighting-Electronics-Components/dp/B01C19ENFK) |
+| RV1, RV2 | 1 | Bourns Slider Potentiometer | $8.89 | $8.89 | [Amazon](https://www.amazon.com/MECCANIXITY-Straight-Potentiometer-Resistors-Electronic/dp/B0DSQ6XD2M) |
+| SW1 | 1 | Rotary Encoder with Switch | $6.99 | $6.99 | [Amazon](https://www.amazon.com/Rotary-Encoder-Pins-encoder-button/dp/B0H2GX6QK2) |
+| SW2, SW3, SW4 | 1 | Push Button Switch (SW_Push) | $4.99 | $4.99 | [Amazon](https://www.amazon.com/BlingKingdom-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSHTPSL3) |
+| U1 | 1 | CD74HC4067M Multiplexer | $9.99 | $9.99 | [Amazon](https://www.amazon.com/CD74HC4067-16-Channel-Multiplexer-Breakout-Compatible/dp/B09MLQ22DX) |
+| U3 | 1 | LCD Display | $11.95 | $11.95 | [Amazon](https://www.amazon.com/Freenove-Display-Compatible-Arduino-Raspberry/dp/B0B76Z83Y4) |
+| PCB | 1 | PCB Board | $16.20 | $16.20 | [JLCPCB](https://jlcpcb.com/) |
+| **TOTAL** | **9** | **9 line items** | — | **$99.98** | — |
