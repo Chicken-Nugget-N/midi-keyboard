@@ -1,10 +1,10 @@
 "Reference","Qty","Value","Link"
-"A1","1","Arduino_Nano_v3.x",''
-"BZ1,BZ2,BZ3","3","Buzzer",''
-"D1,D2,D3","3","LED_KRGB",''
-"J1","1","Conn_01x12",''
-"RV1,RV2","2","Bourns Slider",''
-"SW1","1","RotaryEncoder_Switch_MP",''
+"A1","1","Arduino_Nano_v3.x",
+"BZ1,BZ2,BZ3","3","Buzzer",
+"D1,D2,D3","3","LED_KRGB",
+"J1","1","Conn_01x12",
+"RV1,RV2","2","Bourns Slider",
+"SW1","1","RotaryEncoder_Switch_MP",
 "SW2,SW3,SW4","3","SW_Push",""
 "U1","1","CD74HC4067M",""
 "U3","1","ER_OLEDM0.91_1x-I2C",""
