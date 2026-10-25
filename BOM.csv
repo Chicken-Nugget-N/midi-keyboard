@@ -1,10 +1,11 @@
-"Reference","Qty","Value","Link"
-"A1","1","Arduino_Nano_v3.x",
-"BZ1,BZ2,BZ3","3","Buzzer",
-"D1,D2,D3","3","LED_KRGB",
-"J1","1","Conn_01x12",
-"RV1,RV2","2","Bourns Slider",
-"SW1","1","RotaryEncoder_Switch_MP",
-"SW2,SW3,SW4","3","SW_Push",""
-"U1","1","CD74HC4067M",""
-"U3","1","ER_OLEDM0.91_1x-I2C",""
+"Reference","Qty","Value","Link","price"
+"A1","1","Arduino_Nano_v3.x",amazon
+"BZ1,BZ2,BZ3","3","Buzzer",amazon
+"D1,D2,D3","3","LED_KRGB",amazon
+"J1","1","Conn_01x12",amazon
+"RV1,RV2","2","Bourns Slider",amazon
+"SW1","1","RotaryEncoder_Switch_MP",amazon
+"SW2,SW3,SW4","3","SW_Push",amazon
+"U1","1","CD74HC4067M",amazon
+"U3","1","lcd display",[amazon](https://www.amazon.com/Freenove-Display-Compatible-Arduino-Raspberry/dp/B0B76Z83Y4/ref=sr_1_5?crid=QKCL0TET57PG&dib=eyJ2IjoiMSJ9.xYzwoFjr-84e6rWaV3cwEJT0lpb0O08hevtlSWnoRqa8WlYQL7a81KOOE11SsfvVMiwvOhGgPXg7NqmseutF2iq9OBT6jgwNB3g9bL3WkUsruNMsYD9hagxNLgeRuaLO6RovUboTzhrYqQq4FyHRlhYdFJH_J_kRIYXTpTf6EDYx-yi3Sm7xL-LH80qgonGYXOl3xXNH78zIshrfKm5oQQskOgW0tn4bked3wHRuzKI.ixQMrkneSmLLw1UA9fbxw3tOstAyCesLP9YkBOXmN40&dib_tag=se&keywords=1602+i2c+lcd+display&qid=1792952644&sprefix=1602+i2c+lcd+display%2Caps%2C262&sr=8-5)
+"PCB","1","Pcb board,jlcpcb
